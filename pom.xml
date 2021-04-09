@@ -18,7 +18,7 @@
   <repository>
     <id>dev</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <name>My_Dev</name>
+    <name>Releases</name>
     <url>file:///home/ubuntu/mybuilds/</url>
   </repository>
   
