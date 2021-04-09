@@ -19,7 +19,7 @@
     <id>dev</id>
     <!-- CHANGE HERE by your team nexus server -->
     <name>Releases</name>
-    <url>file:///home/ubuntu/mybuilds/</url>
+    <url>file:///var/lib/jenkins/mybuilds/</url>
   </repository>
   
 </distributionManagement>
