@@ -16,15 +16,12 @@
   
 <distributionManagement>
   <repository>
-    <id>releases</id>
+    <id>dev</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://13.126.197.171:8081/repository/maven-releases/</url>
+    <name>My_Dev</name>
+    <url>file:///home/ubuntu/mybuilds/</url>
   </repository>
-  <snapshotRepository>
-    <id>snapshots</id>
-    <!-- CHANGE HERE by your team nexus server snapshots -->
-    <url>http://13.126.197.171:8081/repository/maven-snapshots/</url>
-  </snapshotRepository>
+  
 </distributionManagement>
 
   <dependencies>
